@@ -1,6 +1,6 @@
 import UIKit
 
-final class ViewController: UIViewController {
+final class ConcentrationViewController: UIViewController {
     
     //      MARK: - IBOutlets
     @IBOutlet private var buttonCollection: [UIButton]!
